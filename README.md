@@ -24,7 +24,7 @@ This project implements a machine learning-based song recommendation system usin
 4. Update the `CLIENT_ID`, `CLIENT_SECRET`, and `REDIRECT_URI` in the notebook
 
 ## Usage
-1. Open the Jupyter Notebook `Spotify_Recommendation_Engine.ipynb`
-2. Run the cells in order
+1. Open the Python script Spotify_Recommendation_Jupyter_Updated.py
+2. Run the script using a Python interpreter (e.g., python Spotify_Recommendation_Engine_Jupyter_Updated.py)
 3. When prompted, select the playlist you want to base recommendations on
 4. The script will generate recommendations and create a new playlist in your Spotify account
