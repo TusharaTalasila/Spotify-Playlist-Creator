@@ -1,5 +1,3 @@
-# Spotify Recommendation Engine
-
 ## Import necessary libraries
 
 import pandas as pd
@@ -12,14 +10,14 @@ from datetime import datetime
 
 ## Spotify API credentials
 
-CLIENT_ID = 'your_client_id'
-CLIENT_SECRET = 'your_client_secret'
+CLIENT_ID = 'your_client_id' //removed for security
+CLIENT_SECRET = 'your_client_secret' //removed for security
 REDIRECT_URI = 'http://localhost:8888/callback'
 SCOPE = 'user-library-read playlist-read-private'
 
 ## Load and preprocess the Spotify dataset
 
-def load_and_preprocess_data(file_path):
+def load_and_preprocess_data(file_path): 
     spotify_data = pd.read_csv(file_path)
     
     # One-hot encoding for genre and key
