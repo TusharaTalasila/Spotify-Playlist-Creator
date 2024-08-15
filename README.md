@@ -28,7 +28,7 @@ This project implements a hybrid recommendation system using the Spotify API and
 ## Usage
 1. Run the script:
    ```
-   python spotify_recommender_with_playlist.py
+   python spotify_recommender.py
    ```
 2. Follow the prompts
 
