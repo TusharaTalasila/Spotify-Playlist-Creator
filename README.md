@@ -22,7 +22,7 @@ This project implements a hybrid recommendation system using the Spotify API and
    pip install spotipy pandas scikit-learn
    ```
 3. Set up your Spotify Developer account and obtain API credentials
-4. Ensure you have the `spotify_tracks.csv` file in your project directory
+4. Ensure you have the `spotify_tracks.csv` file in your project directory download from: https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs?resource=download
 5. Update your Spotify Developer App to include the scopes: `playlist-modify-public` and `playlist-modify-private`
 
 ## Usage
