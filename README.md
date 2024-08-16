@@ -18,7 +18,7 @@ This project implements an advanced recommendation system using the Spotify API 
 
 ## Setup and Installation
 1. Create a python project
-2. Copy .py files into repo
+2. Copy .py files into project bin
 3. Install required packages:
    ```
    pip install spotipy pandas scikit-learn numpy
