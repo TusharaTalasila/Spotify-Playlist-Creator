@@ -24,7 +24,7 @@ This project implements an advanced recommendation system using the Spotify API 
    pip install spotipy pandas scikit-learn numpy
    ```
 4. Set up your Spotify Developer account and obtain API credentials
-5. Ensure you have the `spotify_tracks.csv` file in your project directory
+5. Ensure you have the `spotify_tracks.csv` file in your project directory (https://www.kaggle.com/code/muhammedtausif/top-songs-eda/input)
 6. Update your Spotify Developer App to include the scopes: `playlist-modify-public` and `playlist-modify-private`
 
 ## Usage
