@@ -17,14 +17,15 @@ This project implements an advanced recommendation system using the Spotify API 
 - Spotipy for Spotify API integration
 
 ## Setup and Installation
-1. Clone the repository
-2. Install required packages:
+1. Create a python project
+2. Copy .py files into repo
+3. Install required packages:
    ```
    pip install spotipy pandas scikit-learn numpy
    ```
-3. Set up your Spotify Developer account and obtain API credentials
-4. Ensure you have the `spotify_tracks.csv` file in your project directory
-5. Update your Spotify Developer App to include the scopes: `playlist-modify-public` and `playlist-modify-private`
+4. Set up your Spotify Developer account and obtain API credentials
+5. Ensure you have the `spotify_tracks.csv` file in your project directory
+6. Update your Spotify Developer App to include the scopes: `playlist-modify-public` and `playlist-modify-private`
 
 ## Usage
 1. Run the script:
